@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@types/express-pino-logger": "^4.0.2",
+    "@types/stripe": "^8.0.417",
     "bcrypt": "^5.0.1",
     "config": "^3.3.6",
     "cors": "^2.8.5",
@@ -20,6 +21,7 @@
     "nanoid": "^3.1.30",
     "pino": "^7.2.0",
     "pino-pretty": "^7.2.0",
+    "stripe": "^8.191.0",
     "yup": "^0.32.11"
   },
   "devDependencies": {
